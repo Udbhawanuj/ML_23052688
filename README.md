@@ -44,7 +44,7 @@ It demonstrates hands-on implementation and practical understanding rather than 
 ---
 
 ## Author
-**Udbhawanuj**  
+**Udbhaw Anuj**  
 Machine Learning Student
 
 ---
