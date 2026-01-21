@@ -1,4 +1,4 @@
-# Machine Learning Lab Repository
+# Machine Learning Class Repository
 
 This repository contains my **Machine Learning lab work and practice implementations** developed during coursework.  
 The objective of this repository is to understand Machine Learning concepts by **implementing algorithms from scratch**, visualizing results, and comparing model performances.
